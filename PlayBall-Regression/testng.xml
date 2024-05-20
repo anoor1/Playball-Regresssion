@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PlayBall Regression Automation Testing">
+    <test name="Regression Test">
+        <classes>
+            <class name="com.runner.Runner"/>
+        </classes>
+    </test>
+</suite>
